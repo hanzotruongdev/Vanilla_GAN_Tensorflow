@@ -4,7 +4,7 @@ This is a very simple step by step implementation of vanilla GAN using Tensorflo
 ### What you can find
 * Vanilla GAN
 * Xavier Initialization
-* SGD
+* Adam optimizer
 
 ### Requirements  
 * Tensorflow  
